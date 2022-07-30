@@ -1,0 +1,6 @@
+train: ../datasets/mask/images/train
+val: ../datasets/mask/images/valid
+test: ../datasets/mask/images/test
+
+nc: 3
+names: ['without mask', 'with mask', 'mask worn incorrectly']
